@@ -8,3 +8,7 @@
 
 ----
 
+  * [NUMPY](https://github.com/aditya-2703/DATA-SCIENCE/tree/main/NUMPY)
+  * [PANDAS](https://github.com/aditya-2703/DATA-SCIENCE/tree/main/PANDAS)
+  * [MATPLOTLILB](https://github.com/aditya-2703/DATA-SCIENCE/tree/main/MATPLOTLILB)
+ 
