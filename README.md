@@ -2,7 +2,7 @@
 
 ----
 
--->This repo consist of basics of data science.
+-->This repo consist basics of data science.
 
 ----
 
